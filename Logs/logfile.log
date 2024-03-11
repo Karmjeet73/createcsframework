@@ -1,0 +1,106 @@
+16:37:20.505 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\karmjeet.mor\AppData\Local\Temp\testng-eclipse-391155121\testng-customsuite.xml"
+16:37:20.801 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.807 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.813 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.814 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.814 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.826 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:37:20.836 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClassFiles.browserLaunch()[pri:0, instance:null] -745854688
+16:37:20.839 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+16:37:20.843 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+16:37:20.844 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+16:37:20.846 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+16:37:20.846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+16:37:20.849 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.850 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:37:20.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.857 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.857 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.864 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.866 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:37:20.867 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TestCaseFiles.openurl()[pri:0, instance:TestCasePackage.TestCaseFiles@5dd91bca] -535765155
+16:37:20.868 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+16:37:20.868 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+16:37:20.869 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+16:37:20.869 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+16:37:20.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:37:20.871 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:37:20.872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:37:20.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karmjeet.mor\AppData\Local\Temp\testng-eclipse-391155121\testng-customsuite.xml
+
+16:37:20.917 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+16:37:30.003 [main] INFO  PracticeFrameWork - hi buddy
+16:37:30.270 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2d746ce4: 82 ms
+16:37:30.338 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@476a736d: 67 ms
+16:37:30.339 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5f80fa43: 0 ms
+16:37:30.347 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e75bf2d: 8 ms
+16:37:30.353 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d171ce0: 5 ms
+16:37:30.359 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@57b75756: 6 ms
+16:37:30.362 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5327a06e: 0 ms
+16:41:03.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\karmjeet.mor\AppData\Local\Temp\testng-eclipse-1215781452\testng-customsuite.xml"
+16:41:03.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:03.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:41:03.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:03.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:03.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:03.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.022 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+16:41:04.036 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClassFiles.browserLaunch()[pri:0, instance:null] -745854688
+16:41:04.037 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+16:41:04.043 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+16:41:04.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+16:41:04.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+16:41:04.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+16:41:04.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.054 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:41:04.075 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TestCaseFiles.openurl()[pri:0, instance:TestCasePackage.TestCaseFiles@40cb698e] -1023202015
+16:41:04.076 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+16:41:04.077 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+16:41:04.077 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+16:41:04.077 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+16:41:04.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:41:04.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:04.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:04.117 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karmjeet.mor\AppData\Local\Temp\testng-eclipse-1215781452\testng-customsuite.xml
+
+16:41:04.174 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+16:41:09.383 [main] INFO  PracticeFrameWork - hi buddy
+16:41:09.724 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2d746ce4: 143 ms
+16:41:09.984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@476a736d: 260 ms
+16:41:09.986 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5f80fa43: 1 ms
+16:41:10.002 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e75bf2d: 16 ms
+16:41:10.010 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d171ce0: 7 ms
+16:41:10.020 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@57b75756: 10 ms
+16:41:10.022 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5327a06e: 1 ms
